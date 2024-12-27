@@ -1,7 +1,7 @@
 ## Hello World!! Meu nome é Guilherme. Seja bem vindo ao meu mundo ☕
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiredev&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiredev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiredev&layout=compact)
 
 ### Tecnologias que uso no dia a dia:
 
