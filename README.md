@@ -1,15 +1,16 @@
-<h1 align="center"><b>Hello World </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center"><b>Hello World. Bem vindo ao meu mundo. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-</br></br>
+</br>
   
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> 
-  Me chamo Guilherme
+  Me chamo Guilherme, tenho 16 anos e estudo Front end a 2 anos.
+  Poder proporcionar soluções atravez do meu trablha é o que me motiva.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: VScode e GIT.
 </p>
 
 </br>
