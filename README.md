@@ -2,24 +2,11 @@
 
 </br>
   
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<p align="left"> 
-  Me chamo Guilherme, tenho 16 anos e estudo Front end a 2 anos.
-  Poder proporcionar soluções atravez do meu trablha é o que me motiva.
+  <p align="center">
+  Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<p align="left">
-  💼 Ferramentas: VScode e GIT.
-</p>
-
-</br>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
+<p align="center">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="dev.guilherme00@gmail.com" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
@@ -30,7 +17,83 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="guirexzy" alt="Instagram"/></a>
 </p>
 
+
+
 </br>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+## 👨‍💻 Sobre Mim
+
+Meu nome é **Guilherme Nascimento**, tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas**, programador em atuação e constante evolução.
+
+Acredito que a tecnologia é uma das ferramentas mais poderosas para transformar vidas, só precisa de mais pessoas com realmente vontade de entender-las e criar melhores soluções.
+
+## 🚀 Minha Missão
+
+Busco crescer profissionalmente enquanto construo uma carreira sólida que me permita trabalhar com tecnologia, aprender continuamente e contribuir para soluções que façam a diferença.
+
+Sempre imerso no mundo da tecnologia, aprendizado contínuo é inivitavel. Atualmente estou explorando conceitos para a contrução minha jornada para me tornar um desenvolvedor cada vez mais completo, explorando tanto o desenvolvimento Front-End, Back-End, Desenvolvimento com IAs, APIs e outros.
+
+<div align="center">
+
+## 🛠️ Tecnologias e Ferramentas
+
+</br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,git,github,react,nodejs" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Delphi-E62431?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Object%20Pascal-512BD4?style=for-the-badge" />
+
+</div>
+
+</div>
+
+
+
+</br>
+
+
+
+</br>
+
+## 📚 Atualmente Estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
+
+</div>
+
+- React
+- Node.js
+- Boas práticas de desenvolvimento
+- Estruturação de projetos
+- Mercado de tecnologia
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 Português: Nativo
+- 🇺🇸 Inglês: Básico (em desenvolvimento)
+
+---
+
+## 🎯 Objetivos para os Próximos Anos
+
+- Evoluir para Desenvolvedor Full Stack
+- Aprimorar meu inglês para oportunidades internacionais
+- Construir projetos cada vez mais completos
+- Entender profundamente o mercado de tecnologia
+- Trabalhar em soluções que gerem impacto real
+- Conquistar liberdade geográfica através da tecnologia
+
+---
 
 <h2 align="center">Commits⭐</h2>
 
@@ -39,14 +102,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiredev/guiredev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guiredev/guiredev/output/pacman-contribution-graph.svg">
 </picture>
-
- <h2 align="center">🚀 Minhas Skills</h2>
-
-<div align="center" >
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-</div>
-
 
