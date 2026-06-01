@@ -20,13 +20,15 @@
 
 
 </br>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 ## 👨‍💻 Sobre Mim
 
 Meu nome é **Guilherme Nascimento**, tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas**, programador em atuação e constante evolução.
 
 Acredito que a tecnologia é uma das ferramentas mais poderosas para transformar vidas, só precisa de mais pessoas com realmente vontade de entender-las e criar melhores soluções.
+
+
 
 ## 🚀 Minha Missão
 
