@@ -73,8 +73,7 @@ Sempre imerso no mundo da tecnologia, aprendizado contínuo é inivitavel. Atual
 
 - React
 - Node.js
-- Boas práticas de desenvolvimento
-- Estruturação de projetos
+- Engenharia de Prompt
 - Mercado de tecnologia
 
 ---
@@ -89,7 +88,7 @@ Sempre imerso no mundo da tecnologia, aprendizado contínuo é inivitavel. Atual
 ## 🎯 Objetivos para os Próximos Anos
 
 - Evoluir para Desenvolvedor Full Stack
-- Aprimorar meu inglês para oportunidades internacionais
+- Aprimorar meu inglês para conexões internacionais
 - Construir projetos cada vez mais completos
 - Entender profundamente o mercado de tecnologia
 - Trabalhar em soluções que gerem impacto real
