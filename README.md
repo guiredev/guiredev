@@ -11,10 +11,10 @@
 <a href="https://wa.me/5514996249997?text=Ol%C3%A1%20Guilherme%2C%20vim%20pelo%20GitHub.%20Teria%20um%20tempinho%20a%C3%AD%3F" title="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-5C8D68?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-<a href="dev.guilherme00@gmail.co" title="E-mail">
+<a href="dev.guilherme00@gmail.com" title="E-mail">
   <img src="https://img.shields.io/badge/E--mail-E76F51?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
 </a>
-<a href="https://www.linkedin.com/in/guilherme-nascimento-691ab8281/" title="LinkedIn">
+<a href="linkedin.com/in/guilherme-leonardo-araujo-nascimento" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-4F8CC9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://www.instagram.com/guirexzy/" title="Instagram">
