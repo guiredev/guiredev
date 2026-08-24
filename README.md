@@ -10,7 +10,7 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-5C8D68?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5514996249997?text=Ol%C3%A1%20Guilherme%2C%20vim%20pelo%20GitHub.%20Teria%20um%20tempinho%20a%C3%AD%3F)
 [![E-mail](https://img.shields.io/badge/E--mail-E76F51?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dev.guilherme00%40gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F8CC9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-nascimento-691ab8281/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F8CC9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-leonardo-araujo-nascimento)
 [![Instagram](https://img.shields.io/badge/Instagram-C45A84?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guirexzy/)
 
 </div>
@@ -114,7 +114,7 @@ Estou aberto a oportunidades em Front-End nas quais possa fortalecer meus conhec
 ## 📫 Contato
 
 - GitHub: [guiredev](https://github.com/guiredev)
-- LinkedIn: [Guilherme Nascimento](https://www.linkedin.com/in/guilherme-nascimento-691ab8281/)
+- LinkedIn: [Guilherme Nascimento](https://www.linkedin.com/in/guilherme-leonardo-araujo-nascimento)
 - Instagram: [@guirexzy](https://www.instagram.com/guirexzy/)
 - E-mail: [dev.guilherme00@gmail.com](mailto:dev.guilherme00@gmail.com)
 
