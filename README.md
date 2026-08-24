@@ -1,57 +1,65 @@
 <p align="center">
-  <img src="cozy-dev-banner.png" width="100%" alt="Cozy countryside developer workspace with a garden, mountains, and subtle pixel-art details">
+  <img src="cozy-dev-banner.png" width="100%" alt="Espaço de trabalho aconchegante no campo, com jardim, montanhas e detalhes sutis em pixel art">
 </p>
 
 <div align="center">
 
-# Hi, I'm Guilherme Nascimento
+# Olá, eu sou Guilherme Nascimento
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=900&color=4F8CC9&center=true&vCenter=true&width=760&lines=Front-End+Developer;Systems+Analysis+%26+API+Integration;Building+practical+solutions+for+real+problems)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Texto animado](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=900&color=4F8CC9&center=true&vCenter=true&width=760&lines=Desenvolvedor+Front-End;Experi%C3%AAncia+em+An%C3%A1lise+de+Sistemas;APIs%2C+integra%C3%A7%C3%B5es+e+solu%C3%A7%C3%B5es+pr%C3%A1ticas)](https://github.com/DenverCoder1/readme-typing-svg)
 
-![Front-End](https://img.shields.io/badge/Front--End-4F8CC9?style=flat-square&logo=javascript&logoColor=white)
-![Systems Analysis](https://img.shields.io/badge/Systems_Analysis-5C8D68?style=flat-square&logo=diagramsdotnet&logoColor=white)
-![API Integrations](https://img.shields.io/badge/API_Integrations-E9A23B?style=flat-square&logo=fastapi&logoColor=white)
-![Based in Brazil](https://img.shields.io/badge/Based_in-Brazil-E76F51?style=flat-square&logo=googlemaps&logoColor=white)
+<a href="https://wa.me/5514996249997?text=Ol%C3%A1%20Guilherme%2C%20vim%20pelo%20GitHub.%20Teria%20um%20tempinho%20a%C3%AD%3F" title="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-5C8D68?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+<a href="mailto:dev.guilherme00@gmail.com" title="E-mail">
+  <img src="https://img.shields.io/badge/E--mail-E76F51?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/guilherme-nascimento-691ab8281/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-4F8CC9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/guirexzy/" title="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-C45A84?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
 </div>
 
 ---
 
-## 🌿 About me
+## 🌿 Sobre mim
 
-I'm a Front-End Developer and Systems Development student based in São Paulo, Brazil. I currently work as a Systems Analyst Apprentice, supporting API maintenance, external integrations, and commercial automation systems.
+Sou Desenvolvedor Front-End e estudante de Desenvolvimento de Sistemas, residente no estado de São Paulo, Brasil. Atualmente, trabalho como Analista de Sistemas Aprendiz, apoiando a manutenção de APIs, integrações externas e sistemas de automação comercial.
 
-My professional experience has introduced me to real integration challenges, including payment-terminal solutions involving Stone, Safra, Getnet, and other providers. I am now strengthening my Front-End foundation to build interfaces that are clear, useful, and connected to real business needs.
+Minha experiência profissional me apresentou desafios reais de integração, incluindo soluções para terminais de pagamento envolvendo Stone, Safra, Getnet e outros fornecedores. Agora estou fortalecendo minha base em Front-End para construir interfaces claras, úteis e conectadas às necessidades reais de negócio.
 
-What I bring to Front-End development is a broader view of software: I enjoy understanding the problem, planning the solution, and considering how the interface communicates with the systems behind it.
+O que levo para o desenvolvimento Front-End é uma visão mais ampla do software: gosto de entender o problema, planejar a solução e considerar como a interface se comunica com os sistemas por trás dela.
 
-> I like technology that feels useful, understandable, and a little more human.
+> Gosto de tecnologia que seja útil, compreensível e um pouco mais humana.
 
-## 🧭 Current focus
+## 🧭 Foco atual
 
 ```text
-Building     → stronger JavaScript fundamentals and portfolio projects
-Learning     → React, Node.js, and Tailwind CSS
-Working with → systems analysis, APIs, integrations, and commercial software
-English      → Basic, currently improving technical reading and communication
-Next step    → Build stronger Front-End projects and grow toward a junior role
+Construindo   → fundamentos mais sólidos em JavaScript e projetos de portfólio
+Estudando     → React, Node.js e Tailwind CSS
+Trabalhando   → análise de sistemas, APIs, integrações e software comercial
+Inglês        → básico, aprimorando leitura técnica e comunicação
+Próximo passo → criar projetos Front-End mais completos e evoluir para uma vaga júnior
 ```
 
-## 🧰 Technical toolkit
+## 🧰 Conhecimentos técnicos
 
-### Front-End foundation
+### Base Front-End
 
 ![HTML5](https://img.shields.io/badge/HTML5-E76F51?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-4F8CC9?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E9C46A?style=for-the-badge&logo=javascript&logoColor=2D3436)
 
-### Currently learning
+### Atualmente estudando
 
 ![React](https://img.shields.io/badge/React-6CB4D9?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5C8D68?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-5AAFC7?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Professional environment and supporting skills
+### Ambiente profissional e conhecimentos complementares
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-E9A23B?style=flat-square&logo=fastapi&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-6B7280?style=flat-square&logo=json&logoColor=white)
@@ -63,63 +71,63 @@ Next step    → Build stronger Front-End projects and grow toward a junior role
 
 `Delphi / Object Pascal` · `Java` · `Firebird SQL` · `Windows` · `Linux / Ubuntu`
 
-> My profile distinguishes technologies I use as a foundation, technologies I am actively learning, and tools I have encountered professionally.
+> Este perfil diferencia as tecnologias que fazem parte da minha base, aquelas que estou estudando e as ferramentas com as quais tive contato profissional.
 
-## 💼 Professional experience
+## 💼 Experiência profissional
 
-### Systems Analyst Apprentice — Sistema Factory
+### Analista de Sistemas Aprendiz — Sistema Factory
 
-`Apr 2026 – Present` · Commercial automation software
+`Abril de 2026 – atual` · Sistemas de automação comercial
 
-- Support external API integrations and API maintenance within business automation systems.
-- Participate in payment-terminal integrations involving Stone, Safra, Getnet, and other providers.
-- Developed a base solution for Stone POS integration through deeplink communication.
-- Collaborate with the support team while learning the company's internal system flows.
+- Apoio integrações de APIs externas e a manutenção de APIs em sistemas de automação comercial.
+- Participo de integrações com terminais de pagamento envolvendo Stone, Safra, Getnet e outros fornecedores.
+- Desenvolvi uma solução-base para integração com POS Stone por meio de comunicação via deeplink.
+- Colaboro com a equipe de suporte enquanto aprendo os fluxos internos dos sistemas da empresa.
 
-## 📚 Featured project
+## 📚 Projeto em destaque
 
-### LibraFlow — Library Management System
+### LibraFlow — Sistema de Gerenciamento de Bibliotecas
 
-An academic project designed to help small libraries organize books, users, loans, and returns in one place.
+Projeto acadêmico criado para ajudar pequenas bibliotecas a organizar livros, usuários, empréstimos e devoluções em um único lugar.
 
-**Built with:** HTML, CSS, JavaScript, Node.js, and a relational database.
+**Tecnologias:** HTML, CSS, JavaScript, Node.js e banco de dados relacional.
 
-**My contribution:** problem analysis, feature definition, application development, data organization, and the implementation of core book, user, and loan-management flows.
+**Minha contribuição:** análise do problema, definição de funcionalidades, desenvolvimento da aplicação, organização dos dados e implementação dos principais fluxos de livros, usuários e empréstimos.
 
-**Status:** repository presentation and documentation in progress.
+**Status:** apresentação e documentação do repositório em desenvolvimento.
 
-## ☕ A little beyond the code
+## ☕ Um pouco além do código
 
-- Technical education in Systems Development at Etec Prof.ª Helcy Moreira Martins Aguiar.
-- Interested in the connection between user interfaces, system behavior, and business processes.
-- Planning future higher education in Information Security.
-- I enjoy the warm, imaginative atmosphere of Studio Ghibli films and the peaceful sense of discovery found in Stardew Valley.
+- Curso técnico em Desenvolvimento de Sistemas na Etec Prof.ª Helcy Moreira Martins Aguiar.
+- Interesse pela conexão entre interfaces, comportamento dos sistemas e processos de negócio.
+- Planejamento de uma futura graduação em Segurança da Informação.
+- Gosto da atmosfera acolhedora e imaginativa dos filmes do Studio Ghibli e da tranquilidade e exploração presentes em Stardew Valley.
 
-## 🌱 What I'm looking for
+## 🌱 O que estou buscando
 
-I'm open to Front-End opportunities where I can strengthen my JavaScript and React skills, contribute to real products, and keep learning from experienced teams.
+Estou aberto a oportunidades em Front-End nas quais possa fortalecer meus conhecimentos em JavaScript e React, contribuir com produtos reais e continuar aprendendo com equipes experientes.
 
-- **Preferred opportunities:** on-site, hybrid, remote in Brazil, international remote, or relocation.
-- **International goal:** grow my English and technical experience for future remote or relocation opportunities.
-- **Long-term direction:** keep growing in Front-End while expanding my systems and security foundations.
+- **Modalidades:** presencial, híbrida, remota no Brasil, remota internacional ou com realocação.
+- **Objetivo internacional:** aprimorar meu inglês e minha experiência técnica para futuras oportunidades remotas ou de realocação.
+- **Direção de longo prazo:** continuar evoluindo em Front-End enquanto amplio meus fundamentos em sistemas e segurança.
 
-## 🟡 Contributions, arcade edition
+## 🟡 Contribuições em modo arcade
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guiredev/guiredev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guiredev/guiredev/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man animation generated from Guilherme's GitHub contribution graph" src="https://raw.githubusercontent.com/guiredev/guiredev/output/pacman-contribution-graph.svg">
+  <img alt="Animação do Pac-Man gerada a partir do gráfico de contribuições de Guilherme" src="https://raw.githubusercontent.com/guiredev/guiredev/output/pacman-contribution-graph.svg">
 </picture>
 
-## 📫 Let's connect
+## 📫 Contato
 
 - GitHub: [guiredev](https://github.com/guiredev)
 - LinkedIn: [Guilherme Nascimento](https://www.linkedin.com/in/guilherme-nascimento-691ab8281/)
 - Instagram: [@guirexzy](https://www.instagram.com/guirexzy/)
-- Email: [dev.guilherme00@gmail.com](mailto:dev.guilherme00@gmail.com)
+- E-mail: [dev.guilherme00@gmail.com](mailto:dev.guilherme00@gmail.com)
 
 <div align="center">
 
-_Learning deliberately. Building practically. Growing one commit at a time._
+_Aprendendo com intenção. Construindo na prática. Evoluindo um commit de cada vez._
 
 </div>
