@@ -14,7 +14,7 @@
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://wa.me/5514996249997?text=Ol%C3%A1%20Guilherme%2C%20vim%20pelo%20github.%20Teria%20um%20tempinho%20ai%3F" alt="WhatsApp"/></a>
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="guirexzy" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="[guirexzy](https://www.instagram.com/guirexzy/)" alt="Instagram"/></a>
 </p>
 
 
