@@ -69,31 +69,18 @@ Próximo passo → criar projetos Front-End mais completos e evoluir para uma va
 
 ### Analista de Sistemas Aprendiz — Sistema Factory
 
-`Abril de 2026 – atual` · Sistemas de automação comercial
+`Abril de 2026 – Agosto de 2026` · Sistemas de automação comercial
 
 - Apoio integrações de APIs externas e a manutenção de APIs em sistemas de automação comercial.
 - Participo de integrações com terminais de pagamento envolvendo Stone, Safra, Getnet e outros fornecedores.
 - Desenvolvi uma solução-base para integração com POS Stone por meio de comunicação via deeplink.
 - Colaboro com a equipe de suporte enquanto aprendo os fluxos internos dos sistemas da empresa.
 
-## 📚 Projeto em destaque
-
-### LibraFlow — Sistema de Gerenciamento de Bibliotecas
-
-Projeto acadêmico criado para ajudar pequenas bibliotecas a organizar livros, usuários, empréstimos e devoluções em um único lugar.
-
-**Tecnologias:** HTML, CSS, JavaScript, Node.js e banco de dados relacional.
-
-**Minha contribuição:** análise do problema, definição de funcionalidades, desenvolvimento da aplicação, organização dos dados e implementação dos principais fluxos de livros, usuários e empréstimos.
-
-**Status:** apresentação e documentação do repositório em desenvolvimento.
-
 ## ☕ Um pouco além do código
 
 - Curso técnico em Desenvolvimento de Sistemas na Etec Prof.ª Helcy Moreira Martins Aguiar.
 - Interesse pela conexão entre interfaces, comportamento dos sistemas e processos de negócio.
 - Planejamento de uma futura graduação em Segurança da Informação.
-- Gosto da atmosfera acolhedora e imaginativa dos filmes do Studio Ghibli e da tranquilidade e exploração presentes em Stardew Valley.
 
 ## 🌱 O que estou buscando
 
